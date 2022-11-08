@@ -16,6 +16,7 @@
 		059EFA6A291A4C14004A4461 /* IB_dia08Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059EFA69291A4C14004A4461 /* IB_dia08Tests.swift */; };
 		059EFA74291A4C14004A4461 /* IB_dia08UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059EFA73291A4C14004A4461 /* IB_dia08UITests.swift */; };
 		059EFA76291A4C14004A4461 /* IB_dia08UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059EFA75291A4C14004A4461 /* IB_dia08UITestsLaunchTests.swift */; };
+		059EFA83291A4D5C004A4461 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 059EFA82291A4D5C004A4461 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		059EFA6F291A4C14004A4461 /* IB_dia08UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IB_dia08UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		059EFA73291A4C14004A4461 /* IB_dia08UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IB_dia08UITests.swift; sourceTree = "<group>"; };
 		059EFA75291A4C14004A4461 /* IB_dia08UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IB_dia08UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		059EFA82291A4D5C004A4461 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				059EFA5B291A4C14004A4461 /* Assets.xcassets */,
 				059EFA5D291A4C14004A4461 /* LaunchScreen.storyboard */,
 				059EFA60291A4C14004A4461 /* Info.plist */,
+				059EFA82291A4D5C004A4461 /* SecondViewController.swift */,
 			);
 			path = IB_dia08;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				059EFA83291A4D5C004A4461 /* SecondViewController.swift in Sources */,
 				059EFA57291A4C13004A4461 /* ViewController.swift in Sources */,
 				059EFA53291A4C13004A4461 /* AppDelegate.swift in Sources */,
 				059EFA55291A4C13004A4461 /* SceneDelegate.swift in Sources */,

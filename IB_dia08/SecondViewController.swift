@@ -9,13 +9,17 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
+    @IBAction func button(_ sender: Any) {
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func btTapped(_ sender: Any) {
+    }
+    
     /*
     // MARK: - Navigation
 
